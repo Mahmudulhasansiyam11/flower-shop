@@ -5,3 +5,9 @@
 .lato-font{
     font-family: "Lato", sans-serif;
 }
+
+.background-image{
+    background-image: url(./background-image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
